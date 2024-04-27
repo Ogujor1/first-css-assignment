@@ -1,0 +1,13 @@
+body{
+  box-sizing: border-box;
+}
+p{
+  background-color: black;
+  color: white;
+}
+.contact-heading{
+  color: red;
+}
+.contact-body{
+  background-color: blue;
+}
